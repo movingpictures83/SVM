@@ -1,0 +1,2 @@
+observations	plugins/SVM/example/observations.csv
+classes	plugins/SVM/example/class.csv
