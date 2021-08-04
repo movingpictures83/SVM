@@ -3,7 +3,7 @@
 # Input: TXT
 # Output: CSV
 # Tested with: PluMA 1.1, R 4.0.0
-# Dependency: e1071_1.7-7
+# Dependency: RBM
 
 PluMA plugin to run Linear Support Vector Machine (Hearst, 1998).
 
